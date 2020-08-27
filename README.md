@@ -22,5 +22,6 @@ So what shapes are in the stencil?
 
 Here is a snippet of the shapes..
 
+![preview](https://user-images.githubusercontent.com/51378700/91375624-5303e700-e86f-11ea-85d6-faa6b9dfa2ce.png)
 
 Of course I will update the library of shapes as and when needed. Happy to take on board suggestions.
